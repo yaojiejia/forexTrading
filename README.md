@@ -1,1 +1,1 @@
-Personal forextrading bot
+Personal forextrading bot, deleted some key algos
