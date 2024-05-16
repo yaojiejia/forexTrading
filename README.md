@@ -1,7 +1,6 @@
 # Forex Trading Bot Project
 
-Welcome to the Forex Trading Bot project repository! This project aims to develop a comprehensive forex trading bot capable of strategy testing, automation, and accessing real-time market information. Whether you're a hobbyist or a professional trader, this project provides the tools and knowledge to build and deploy your own trading bot.
-
+This project aims to develop a comprehensive forex trading bot capable of strategy testing, automation, and accessing real-time market information
 ## Project Description
 
 The Forex Trading Bot project includes the following key features:
@@ -15,7 +14,7 @@ The Forex Trading Bot project includes the following key features:
 
 ## Project Structure
 
-1. **API Integration:** Learn to access the Oanda REST API for retrieving market data and executing trades.
+1. **API Integration:** Access the Oanda REST API for retrieving market data and executing trades.
 2. **Strategy Development:** Develop and test trading strategies using historical data.
 3. **Automated Trading Implementation:** Implement automated trading functionalities based on tested strategies.
 4. **Real-time Data Retrieval:** Retrieve live market data including sentiments, technicals, and headlines using web scraping.
@@ -45,23 +44,11 @@ To get started with the Forex Trading Bot project, follow these steps:
 4. **Run the Bot:** Execute the main script to start the trading bot:
 
     ```
-    python main.py
+    python run_bot.py
     ```
 
 5. **Monitor Performance:** Access the web application to monitor the bot's activity and visualize live market data.
 
-## Contributing
-
-Contributions to the Forex Trading Bot project are welcome! If you have any ideas for improvements or want to add new features, feel free to submit a pull request following the project's guidelines.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Acknowledgments
-
-Special thanks to [List of contributors, libraries, or resources you've used or referenced].
-
 ## Disclaimer
 
-Trading forex involves significant risk and may not be suitable for everyone. The Forex Trading Bot project is for educational purposes only, and the developers do not guarantee profits or financial success.
+Trading forex involves significant risk and may not be suitable for everyone. I have deleted some key algos because this is for personal usage and has brought me some significant revenue. Contact for details.
